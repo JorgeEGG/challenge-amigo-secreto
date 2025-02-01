@@ -2,5 +2,5 @@
 let amigos = [];
 
 function agregarAmigos(){
-    
+    let amigo = prompt()
 }
